@@ -1,0 +1,8 @@
+[package]
+name = "tuple_member_rs"
+version = "0.1.0"
+edition = "2021"
+description = "A crate that exposes a trait for enforcing that a type parameter is a member of another tuple type parameter"
+license = "Apache-2.0"
+
+[dependencies]
